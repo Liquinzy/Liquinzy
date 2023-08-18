@@ -1,6 +1,6 @@
 # <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Liquinzy">
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/1070795507082985524">
+<img width="30%" align="right" src="https://cdn.discordapp.com/attachments/1078736744607907942/1142017962870587462/image.png">
 <div align="left" width="100%">
 
 <p align="center">
